@@ -6,14 +6,7 @@
 The frontend of the application is built with React.
 
 ### Installation
-
-1. Navigate to the frontend directory:
-
-    ```bash
-    cd frontend
-    ```
-
-2. Install the necessary dependencies:
+1. Install the necessary dependencies:
 
     ```bash
     npm install
