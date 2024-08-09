@@ -6,7 +6,16 @@
 The frontend of the application is built with React.
 
 ### Installation
-1. Install the necessary dependencies:
+1. Clone the Repository
+    ```bash
+    git clone https://github.com/sasireeth/recruiter-portal.git
+    ```
+
+2. Navigate to the Project Directory
+    ```bash
+    cd recruiter-portal
+    ```
+3. Install the necessary dependencies:
 
     ```bash
     npm install
@@ -17,7 +26,7 @@ The frontend of the application is built with React.
 1. Start the frontend development server:
 
     ```bash
-    npm start
+    $env:PORT=3004; npm run start
     ```
 
     The frontend application will be available at [http://localhost:3004](http://localhost:3004).
