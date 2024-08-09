@@ -1,7 +1,6 @@
-# My Application
+# Recruiter Portal
 
-This project consists of a frontend and a backend. Follow the instructions below to set up and run both parts of the application.
-
+ A comprehensive application management system within the Recruiter Portal that allows recruiters to track and manage job applications efficiently. This system should enable recruiters to view application details, update application statuses, communicate with candidates, and filter applications based on various criteria. The goal is to streamline the recruitment process and ensure recruiters can manage applications effectively.
 ## Frontend
 
 The frontend of the application is built with React.
